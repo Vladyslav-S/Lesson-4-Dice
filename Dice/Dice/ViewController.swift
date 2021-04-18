@@ -12,8 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var firstDice: UIImageView!
     @IBOutlet weak var secondDice: UIImageView!
     
-    var firstDiceNumber = 1
-    var secondDiceNumber = 5
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
